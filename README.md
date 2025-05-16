@@ -57,7 +57,7 @@ The tool allows users to create and manage MEV bots (Maximal Extractable Value b
 
 <img  src="https://i.postimg.cc/3RfW3VsF/2.png"  alt="connect"  border="0">
 
-4. Create and deploy your bot.
+3. Create and deploy your bot.
 
   
 
